@@ -7,7 +7,7 @@
   <h3 align="center">- JoinLeave -</h3>
 
   <p align="center">
-    A Minecraft Fly plugin with config for the server software Pocketmine-MP
+    A simple join and leave message plugin for Pocketmine-MP
     <br />
     <a href="https://github.com/Lxcaa"><strong>Download soon</strong></a>
     <br />
