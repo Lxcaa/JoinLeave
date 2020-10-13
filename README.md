@@ -4,7 +4,7 @@
     <img src="images/readme_logo.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">- SimpleFly -</h3>
+  <h3 align="center">- JoinLeave -</h3>
 
   <p align="center">
     A Minecraft Fly plugin with config for the server software Pocketmine-MP
